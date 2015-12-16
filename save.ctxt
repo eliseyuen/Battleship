@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=save()
+comment1.params=
+comment1.target=void\ printAnswer()
+comment2.params=
+comment2.target=void\ printGuesses()
+comment3.params=
+comment3.target=int[]\ getLocationCells()
+comment4.params=hor
+comment4.target=void\ setHor(boolean)
+comment5.params=rowNum
+comment5.target=void\ setRow(int)
+comment6.params=colNum
+comment6.target=void\ setCol(int)
+comment7.params=rowG\ colG
+comment7.target=void\ check(int,\ int)
+comment8.params=
+comment8.target=int\ getHitcounter()
+comment9.params=num
+comment9.target=void\ setHitcounter(int)
+numComments=10
